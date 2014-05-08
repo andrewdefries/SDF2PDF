@@ -1,0 +1,4 @@
+benzoylhydrazone & benazolin & phosphoramidite
+benazolin & 60 & 100 & 20
+benzoylhydrazone & 100 & 60 & 20
+phosphoramidite & 20 & 20 & 100

@@ -1,0 +1,5 @@
+Mevinphos & benzodioxathiepin 3,3-dioxide & disodium arsenate sodium arsenic oxide & Endrin ketone
+benzodioxathiepin 3,3-dioxide & 23 & 100 & 17 & 15
+Mevinphos & 100 & 23 & 17 & 21
+disodium arsenate sodium arsenic oxide & 17 & 17 & 100 & 8
+Endrin ketone & 21 & 15 & 8 & 100

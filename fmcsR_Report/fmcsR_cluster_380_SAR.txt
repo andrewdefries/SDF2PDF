@@ -1,0 +1,4 @@
+pyridine N-oxide & diethyl ester & Sowell
+Sowell & 29 & 71 & 100
+diethyl ester & 29 & 100 & 71
+pyridine N-oxide & 100 & 29 & 29

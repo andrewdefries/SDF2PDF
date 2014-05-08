@@ -1,0 +1,5 @@
+1H-benzimidazol-2-ylamine & acetic acid & 2,6-dinitro-4-octylphenyl crotonate & Talstar
+acetic acid & 25 & 100 & 100 & 100
+Talstar & 60 & 100 & 27 & 100
+2,6-dinitro-4-octylphenyl crotonate & 60 & 100 & 100 & 27
+1H-benzimidazol-2-ylamine & 100 & 25 & 60 & 60

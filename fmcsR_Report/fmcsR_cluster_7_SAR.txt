@@ -1,0 +1,4 @@
+17040-19-6 & triazoxide & perhydroazepine-1-thiocarboxylate
+triazoxide & 7 & 100 & 18
+perhydroazepine-1-thiocarboxylate & 18 & 18 & 100
+17040-19-6 & 100 & 7 & 18

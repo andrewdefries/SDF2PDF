@@ -1,0 +1,5 @@
+quinazoline & Naphthacenecarboxamide & methyl benzimidazol-2-ylcarbamate methylbenzimidaz & 2-Imidazolidinethione
+2-Imidazolidinethione & 17 & 50 & 50 & 100
+Naphthacenecarboxamide & 70 & 100 & 29 & 50
+methyl benzimidazol-2-ylcarbamate methylbenzimidaz & 80 & 29 & 100 & 50
+quinazoline & 100 & 70 & 80 & 17

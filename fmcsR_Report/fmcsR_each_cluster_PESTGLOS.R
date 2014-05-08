@@ -86,7 +86,7 @@ for s in *.smi
 do
 mol2chemfig -wo $s> $s.tex
 done
-cd..
+cd  ..
 done")
 ######
 ##################

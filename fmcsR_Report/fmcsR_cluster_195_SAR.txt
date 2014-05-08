@@ -1,0 +1,12 @@
+Clc1ccccc1C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl & naphthaleneacetamide 1-naphthaleneacetic acid & dimepiperate & tolfenpyrad & sulfate 1-methyl-2-(3-pyridyl)pyrrolidine sulfate  & chlorimuron ethyl & copper sulfate pentahydrate copper arsenate & Sulfuryl Fluoride & Epoxyethane - & Cadusafos & 1-(8-hydroxy-5-quinolinyl)-ethanone sulfate (2:1)
+tolfenpyrad & 37 & 26 & 39 & 100 & 33 & 26 & 6 & 20 & 67 & 20 & 33
+naphthaleneacetamide 1-naphthaleneacetic acid & 42 & 100 & 44 & 26 & 25 & 37 & 6 & 20 & 67 & 20 & 46
+sulfate 1-methyl-2-(3-pyridyl)pyrrolidine sulfate  & 37 & 25 & 39 & 33 & 100 & 22 & 31 & 60 & 67 & 27 & 29
+copper sulfate pentahydrate copper arsenate & 0 & 6 & 6 & 6 & 31 & 19 & 100 & 60 & 33 & 7 & 31
+Cadusafos & 20 & 20 & 27 & 20 & 27 & 20 & 7 & 20 & 67 & 100 & 20
+chlorimuron ethyl & 37 & 37 & 39 & 26 & 22 & 100 & 19 & 60 & 67 & 20 & 33
+1-(8-hydroxy-5-quinolinyl)-ethanone sulfate (2:1) & 42 & 46 & 44 & 33 & 29 & 33 & 31 & 60 & 67 & 20 & 100
+Epoxyethane - & 67 & 67 & 67 & 67 & 67 & 67 & 33 & 33 & 100 & 67 & 67
+dimepiperate & 50 & 44 & 100 & 39 & 39 & 39 & 6 & 20 & 67 & 27 & 44
+Sulfuryl Fluoride & 0 & 20 & 20 & 20 & 60 & 60 & 60 & 100 & 33 & 20 & 60
+Clc1ccccc1C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl & 100 & 42 & 50 & 37 & 37 & 37 & 0 & 0 & 67 & 20 & 42

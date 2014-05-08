@@ -1,0 +1,5 @@
+Disulfiram & resmethrin & Dalapon & Chloropropham
+Chloropropham & 14 & 43 & 43 & 100
+resmethrin & 12 & 100 & 71 & 43
+Disulfiram & 100 & 12 & 29 & 14
+Dalapon & 29 & 71 & 100 & 43

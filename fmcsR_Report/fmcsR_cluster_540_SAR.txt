@@ -1,0 +1,6 @@
+Diamino-1,3,5-triazine & acifluorfen & Trimethylsulfonium & cyclohex-3-enecarboxylate & 2-Ethyl-2,5-Dimethylhexanoic Acid
+acifluorfen & 25 & 100 & 25 & 44 & 33
+2-Ethyl-2,5-Dimethylhexanoic Acid & 12 & 33 & 25 & 89 & 100
+Diamino-1,3,5-triazine & 100 & 25 & 25 & 12 & 12
+cyclohex-3-enecarboxylate & 12 & 44 & 25 & 100 & 89
+Trimethylsulfonium & 25 & 25 & 100 & 25 & 25

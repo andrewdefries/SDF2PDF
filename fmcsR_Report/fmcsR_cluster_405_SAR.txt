@@ -1,0 +1,4 @@
+Phenothrin & acetyl-N-methylcarbamate & bialaphos
+acetyl-N-methylcarbamate & 38 & 100 & 38
+Phenothrin & 100 & 38 & 24
+bialaphos & 24 & 38 & 100

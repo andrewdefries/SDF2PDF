@@ -1,0 +1,4 @@
+1,2,4,5-tetrachloro-3-(methylthio)benzene & nicotine nicotine sulfate & 2,6-bis-(4,6-dimethoxypyrimidin-2-yl-oxy)benzoic a
+nicotine nicotine sulfate & 42 & 100 & 21
+2,6-bis-(4,6-dimethoxypyrimidin-2-yl-oxy)benzoic a & 50 & 21 & 100
+1,2,4,5-tetrachloro-3-(methylthio)benzene & 100 & 42 & 50

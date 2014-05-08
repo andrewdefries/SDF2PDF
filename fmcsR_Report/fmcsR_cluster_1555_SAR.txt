@@ -1,0 +1,4 @@
+Isopropyl phenylacetate & 77227-69-1 & carfentrazone
+77227-69-1 & 54 & 100 & 33
+carfentrazone & 62 & 33 & 100
+Isopropyl phenylacetate & 100 & 54 & 62

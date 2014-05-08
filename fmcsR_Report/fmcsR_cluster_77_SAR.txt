@@ -1,0 +1,7 @@
+(Z)-2-chloro-1-(2,4-dichlorophenyl)ethenyl phospho & 2-[1-(ethoxyimino)propyl]-3-hydroxy-5-(2,4,6-trime & methyl bromide methyl carbamic acid & 3-isopropyl-5-methylphenyl methylcarbamate & arsenic acid arsenic acid & 1,1?-dimethyl-4,4?-bipyridinium
+2-[1-(ethoxyimino)propyl]-3-hydroxy-5-(2,4,6-trime & 44 & 100 & 29 & 60 & 11 & 43
+(Z)-2-chloro-1-(2,4-dichlorophenyl)ethenyl phospho & 100 & 44 & 29 & 47 & 11 & 21
+3-isopropyl-5-methylphenyl methylcarbamate & 47 & 60 & 86 & 100 & 11 & 21
+methyl bromide methyl carbamic acid & 29 & 29 & 100 & 86 & 14 & 43
+1,1?-dimethyl-4,4?-bipyridinium & 21 & 43 & 43 & 21 & 0 & 100
+arsenic acid arsenic acid & 11 & 11 & 14 & 11 & 100 & 0

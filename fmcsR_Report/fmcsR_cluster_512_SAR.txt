@@ -1,0 +1,5 @@
+pyrimidine-2-sulfonamide & Landrin & Zeldox & Sodium arsenate
+Zeldox & 40 & 57 & 100 & 17
+Landrin & 30 & 100 & 57 & 17
+pyrimidine-2-sulfonamide & 100 & 30 & 40 & 17
+Sodium arsenate & 17 & 17 & 17 & 100

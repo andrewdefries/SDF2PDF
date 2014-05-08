@@ -1,0 +1,4 @@
+selfotel & Chlorpyrifos & 97-17-6
+97-17-6 & 21 & 94 & 100
+Chlorpyrifos & 21 & 100 & 94
+selfotel & 100 & 21 & 21

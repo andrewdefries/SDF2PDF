@@ -1,0 +1,4 @@
+carbamate & Diphenylketon & 2-(2-furanyl)-1H-benzimidazole
+Diphenylketon & 50 & 100 & 43
+carbamate & 100 & 50 & 25
+2-(2-furanyl)-1H-benzimidazole & 25 & 43 & 100

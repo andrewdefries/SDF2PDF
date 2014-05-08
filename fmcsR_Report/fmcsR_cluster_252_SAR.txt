@@ -1,0 +1,11 @@
+buprofezin & 90338-20-8 & quinoline & triazolo(1,5-a)pyrimidine-2- sulfonamide & Paclobutrazol & thiadiazol-3-ylmethyl & choline chloride & silvex & chloropropylate & 2-ethoxy-2,3-dihydro-3,3-dimethyl-5-benzofuranylme
+silvex & 40 & 27 & 60 & 23 & 47 & 17 & 38 & 100 & 47 & 33
+thiadiazol-3-ylmethyl & 50 & 17 & 17 & 67 & 33 & 100 & 50 & 17 & 17 & 33
+90338-20-8 & 21 & 100 & 50 & 23 & 26 & 17 & 38 & 27 & 21 & 26
+2-ethoxy-2,3-dihydro-3,3-dimethyl-5-benzofuranylme & 26 & 26 & 50 & 23 & 42 & 33 & 38 & 33 & 58 & 100
+buprofezin & 100 & 21 & 60 & 38 & 30 & 50 & 62 & 40 & 29 & 26
+chloropropylate & 29 & 21 & 60 & 23 & 45 & 17 & 38 & 47 & 100 & 58
+choline chloride & 62 & 38 & 12 & 50 & 50 & 50 & 100 & 38 & 38 & 38
+quinoline & 60 & 50 & 100 & 10 & 60 & 17 & 12 & 60 & 60 & 50
+Paclobutrazol & 30 & 26 & 60 & 31 & 100 & 33 & 50 & 47 & 45 & 42
+triazolo(1,5-a)pyrimidine-2- sulfonamide & 38 & 23 & 10 & 100 & 31 & 67 & 50 & 23 & 23 & 23

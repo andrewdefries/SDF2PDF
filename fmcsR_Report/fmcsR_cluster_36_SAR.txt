@@ -1,0 +1,11 @@
+aminoethyl phosphorodithioate & 3-chlorophenylhydrazone & N-(2,6-dimethylphenyl)-N-(methoxyacetyl)alanine me & pentoxy & sodium dimethyldithiocarbamate methyl & piperophos & Claudetite & manganese ethylenebis(dithiocarbamate) & sulphenone & 2,6-dichlorobenzenecarbothioamide
+manganese ethylenebis(dithiocarbamate) & 38 & 22 & 36 & 33 & 62 & 36 & 0 & 100 & 18 & 27
+3-chlorophenylhydrazone & 25 & 100 & 78 & 17 & 25 & 22 & 0 & 22 & 78 & 78
+aminoethyl phosphorodithioate & 100 & 25 & 38 & 33 & 25 & 100 & 20 & 38 & 25 & 38
+sulphenone & 25 & 78 & 38 & 17 & 38 & 12 & 20 & 18 & 100 & 64
+piperophos & 100 & 22 & 40 & 83 & 50 & 100 & 20 & 36 & 12 & 27
+Claudetite & 20 & 0 & 20 & 20 & 0 & 20 & 100 & 0 & 20 & 0
+2,6-dichlorobenzenecarbothioamide & 38 & 78 & 64 & 33 & 38 & 27 & 0 & 27 & 64 & 100
+sodium dimethyldithiocarbamate methyl & 25 & 25 & 50 & 17 & 100 & 50 & 0 & 62 & 38 & 38
+pentoxy & 33 & 17 & 67 & 100 & 17 & 83 & 20 & 33 & 17 & 33
+N-(2,6-dimethylphenyl)-N-(methoxyacetyl)alanine me & 38 & 78 & 100 & 67 & 50 & 40 & 20 & 36 & 38 & 64

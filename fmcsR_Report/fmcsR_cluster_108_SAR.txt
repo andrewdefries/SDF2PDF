@@ -1,0 +1,7 @@
+2,3-dihydro-2,2-dimethyl-7-benzofuranyl 2,4-dimeth & O-((phenylamino)carbonyl)oxime 2- propanone & sec-butylamine 2-benzothiazol-2-yloxy-N-methylacet & methacrifos & sodium trichloroacetate & metazachlor
+sec-butylamine 2-benzothiazol-2-yloxy-N-methylacet & 27 & 64 & 100 & 36 & 38 & 58
+sodium trichloroacetate & 38 & 38 & 38 & 50 & 100 & 50
+methacrifos & 36 & 21 & 36 & 100 & 50 & 21
+O-((phenylamino)carbonyl)oxime 2- propanone & 36 & 100 & 64 & 21 & 38 & 64
+2,3-dihydro-2,2-dimethyl-7-benzofuranyl 2,4-dimeth & 100 & 36 & 27 & 36 & 38 & 32
+metazachlor & 32 & 64 & 58 & 21 & 50 & 100

@@ -1,0 +1,7 @@
+bupirimate & aminosulfonyl, aminocarbonylamino & 2-chloro-N-(2,6-diethylphenyl)-N-(2-propoxyethyl)a & arsanilic acid & tebuthiuron & N-methyl-ethanimidamide
+aminosulfonyl, aminocarbonylamino & 62 & 100 & 38 & 25 & 50 & 40
+bupirimate & 100 & 62 & 24 & 27 & 27 & 60
+N-methyl-ethanimidamide & 60 & 40 & 60 & 40 & 40 & 100
+tebuthiuron & 27 & 50 & 33 & 18 & 100 & 40
+arsanilic acid & 27 & 25 & 64 & 100 & 18 & 40
+2-chloro-N-(2,6-diethylphenyl)-N-(2-propoxyethyl)a & 24 & 38 & 100 & 64 & 33 & 60

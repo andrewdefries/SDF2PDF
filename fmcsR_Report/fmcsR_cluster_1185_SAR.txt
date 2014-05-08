@@ -1,0 +1,5 @@
+Ethanol & OC1(C(OC)=O)c3c(ccc(Cl)c3)c2c1cccc2 & naproanilide & heptachlor epoxide
+OC1(C(OC)=O)c3c(ccc(Cl)c3)c2c1cccc2 & 100 & 100 & 32 & 28
+Ethanol & 100 & 100 & 100 & 100
+naproanilide & 100 & 32 & 100 & 17
+heptachlor epoxide & 100 & 28 & 17 & 100

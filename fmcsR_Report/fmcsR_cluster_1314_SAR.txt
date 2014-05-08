@@ -1,0 +1,4 @@
+1H-1,2,4-triazole-1-ethanol, (E)-(?)-?- & tebufenozide & 2-(3,4-dichlorophenyl)-4-methyl-1,2,4-oxadiazolidi
+tebufenozide & 38 & 100 & 38
+2-(3,4-dichlorophenyl)-4-methyl-1,2,4-oxadiazolidi & 50 & 38 & 100
+1H-1,2,4-triazole-1-ethanol, (E)-(?)-?- & 100 & 38 & 50

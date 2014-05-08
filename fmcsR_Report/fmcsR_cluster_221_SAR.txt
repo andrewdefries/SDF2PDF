@@ -1,0 +1,4 @@
+((4-chlorophenyl)methylene)-?-(1,1dimethylethyl)-1 & methyl sulfide methyl sulfanilylcarbamate & 4-n-heptyl-4-hydroxybutanoic acid
+methyl sulfide methyl sulfanilylcarbamate & 35 & 100 & 21
+((4-chlorophenyl)methylene)-?-(1,1dimethylethyl)-1 & 100 & 35 & 29
+4-n-heptyl-4-hydroxybutanoic acid & 29 & 21 & 100

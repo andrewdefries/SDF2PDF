@@ -1,0 +1,4 @@
+Cycloheximide & mefluidide & mepiquat chloride
+mefluidide & 25 & 100 & 44
+mepiquat chloride & 67 & 44 & 100
+Cycloheximide & 100 & 25 & 67

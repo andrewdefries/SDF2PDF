@@ -1,0 +1,5 @@
+harmony & dibromethen & Carbendazim & fenbuconazole
+dibromethen & 25 & 100 & 25 & 25
+Carbendazim & 50 & 25 & 100 & 43
+harmony & 100 & 25 & 50 & 21
+fenbuconazole & 21 & 25 & 43 & 100

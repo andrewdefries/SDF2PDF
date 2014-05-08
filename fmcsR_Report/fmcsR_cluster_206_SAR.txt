@@ -1,0 +1,4 @@
+3-Hydroxycarbofuran & magnesium arsenate magnesium & O-(dichloro(methylthio)phenyl) O,O-diethyl phospho
+magnesium arsenate magnesium & 14 & 100 & 14
+O-(dichloro(methylthio)phenyl) O,O-diethyl phospho & 41 & 14 & 100
+3-Hydroxycarbofuran & 100 & 14 & 41

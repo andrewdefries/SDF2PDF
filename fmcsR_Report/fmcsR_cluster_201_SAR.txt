@@ -1,0 +1,4 @@
+isocrotonate & furethrin & 2,3,5-triiodobenzoic acid 2,3,5-triiodobenzoic aci
+furethrin & 83 & 100 & 26
+isocrotonate & 100 & 83 & 67
+2,3,5-triiodobenzoic acid 2,3,5-triiodobenzoic aci & 67 & 26 & 100

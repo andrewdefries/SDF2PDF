@@ -1,0 +1,4 @@
+Crotoxyphos & bromofenoxim & 4-chlorobenzoic acid
+bromofenoxim & 33 & 100 & 70
+4-chlorobenzoic acid & 80 & 70 & 100
+Crotoxyphos & 100 & 33 & 80

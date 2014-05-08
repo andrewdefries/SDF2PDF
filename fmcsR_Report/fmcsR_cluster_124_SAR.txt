@@ -1,0 +1,6 @@
+formaldehyde methanearsonic acid & methyl DL-N-(2,6-dimethylphenyl)-N-(phenylacetyl)- & tecloftalam & 2-Amino-4-(hydroxy-methyl-phosphoryl)butanoic acid & kepone
+2-Amino-4-(hydroxy-methyl-phosphoryl)butanoic acid & 33 & 55 & 36 & 100 & 45
+methyl DL-N-(2,6-dimethylphenyl)-N-(phenylacetyl)- & 33 & 100 & 42 & 55 & 19
+tecloftalam & 33 & 42 & 100 & 36 & 14
+formaldehyde methanearsonic acid & 100 & 33 & 33 & 33 & 22
+kepone & 22 & 19 & 14 & 45 & 100

@@ -1,0 +1,9 @@
+4,6-dinitrophenyl 2-(1-methylheptyl)-2- butenoate, & Fipronil & O-ethyl phenylphosphonothioate & 1-Triacontanol & 2,6-dichloro-4-nitroaniline & ethephon & isothiocyanato- & 2-amino-3-chloro-1,4-naphthoquinone
+Fipronil & 27 & 100 & 50 & 8 & 75 & 29 & 33 & 57
+isothiocyanato- & 33 & 33 & 33 & 33 & 33 & 33 & 100 & 33
+2,6-dichloro-4-nitroaniline & 75 & 75 & 50 & 8 & 100 & 29 & 33 & 67
+2-amino-3-chloro-1,4-naphthoquinone & 50 & 57 & 50 & 7 & 67 & 29 & 33 & 100
+4,6-dinitrophenyl 2-(1-methylheptyl)-2- butenoate, & 100 & 27 & 50 & 38 & 75 & 29 & 33 & 50
+1-Triacontanol & 38 & 8 & 25 & 100 & 8 & 29 & 33 & 7
+O-ethyl phenylphosphonothioate & 50 & 50 & 100 & 25 & 50 & 57 & 33 & 50
+ethephon & 29 & 29 & 57 & 29 & 29 & 100 & 33 & 29

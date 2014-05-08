@@ -1,0 +1,4 @@
+2,3,5-trimethylphenyl methylcarbamate & 2-chloro-6-(4,6-dimethoxypyrimidin-2-ylthio)benzoi & 2,3-dihydro-2,2-dimethylbenzofuran-7-yl (dibutylam
+2-chloro-6-(4,6-dimethoxypyrimidin-2-ylthio)benzoi & 50 & 100 & 32
+2,3-dihydro-2,2-dimethylbenzofuran-7-yl (dibutylam & 86 & 32 & 100
+2,3,5-trimethylphenyl methylcarbamate & 100 & 50 & 86

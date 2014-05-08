@@ -1,0 +1,9 @@
+2-(4,5-dihydro-4-methyl-4-isopropyl-5-oxo-1H-imida & methyl hydrogen sulfate & 2,3,4,5-tetrachlorothioanisole 2,3,5,6-tetrachloro & rimsulfuron & 6,9-methano-2,4,3-benzodioxathiepin 3,3-dioxide & terbutryn & acrolein & Tribufos
+acrolein & 75 & 25 & 25 & 50 & 75 & 50 & 100 & 50
+methyl hydrogen sulfate & 33 & 100 & 17 & 50 & 100 & 17 & 25 & 17
+Tribufos & 24 & 17 & 12 & 18 & 29 & 19 & 50 & 100
+6,9-methano-2,4,3-benzodioxathiepin 3,3-dioxide & 29 & 100 & 7 & 21 & 100 & 21 & 75 & 29
+2-(4,5-dihydro-4-methyl-4-isopropyl-5-oxo-1H-imida & 100 & 33 & 26 & 26 & 29 & 31 & 75 & 24
+rimsulfuron & 26 & 50 & 30 & 100 & 21 & 44 & 50 & 18
+terbutryn & 31 & 17 & 19 & 44 & 21 & 100 & 50 & 19
+2,3,4,5-tetrachlorothioanisole 2,3,5,6-tetrachloro & 26 & 17 & 100 & 30 & 7 & 19 & 25 & 12

@@ -1,0 +1,5 @@
+2,3-dihydro-2,2-dimethyl-3-hydroxy-7- benzofuranyl & Sodium Isopropyl & copper monoethanolamine copper sulfate pentahydrat & 6-chloro-3-phenyl-4-pyridazinol
+Sodium Isopropyl & 75 & 100 & 50 & 50
+2,3-dihydro-2,2-dimethyl-3-hydroxy-7- benzofuranyl & 100 & 75 & 19 & 43
+6-chloro-3-phenyl-4-pyridazinol & 43 & 50 & 14 & 100
+copper monoethanolamine copper sulfate pentahydrat & 19 & 50 & 100 & 14

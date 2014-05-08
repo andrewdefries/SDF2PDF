@@ -1,0 +1,5 @@
+3-methoxy-6-phenyl-2,4-dioxa-5-aza-3-phosphahept-5 & ethyl-6-fluorobenzenemethanamine & thiazole-5-carboxanilide & 1-(2,4-dichloroanilinocarbonyl)cyclopropanecarboxy
+1-(2,4-dichloroanilinocarbonyl)cyclopropanecarboxy & 35 & 55 & 71 & 100
+thiazole-5-carboxanilide & 43 & 55 & 100 & 71
+ethyl-6-fluorobenzenemethanamine & 73 & 100 & 55 & 55
+3-methoxy-6-phenyl-2,4-dioxa-5-aza-3-phosphahept-5 & 100 & 73 & 43 & 35

@@ -1,0 +1,5 @@
+flurazole & phosphorine & arsenic acid & isoprocarb
+phosphorine & 83 & 100 & 0 & 83
+flurazole & 100 & 83 & 20 & 50
+isoprocarb & 50 & 83 & 20 & 100
+arsenic acid & 20 & 0 & 100 & 20

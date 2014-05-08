@@ -1,0 +1,4 @@
+dimethirimol & triadimefon & 4,7-Methano-1H-indene
+triadimefon & 27 & 100 & 60
+4,7-Methano-1H-indene & 60 & 60 & 100
+dimethirimol & 100 & 27 & 60

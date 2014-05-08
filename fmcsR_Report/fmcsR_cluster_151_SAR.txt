@@ -1,0 +1,12 @@
+(2-naphthyloxy)acetic acid (2-naphthyloxy)acetic a & manganese dimethyldithiocarbamate manganese & InChI=1/C15H21NO4/c1-10-7-6-8-11(2)14(10)16(13(17) & sulfonyl-1-methyl-1H-pyrazole-4- carboxylate & 1-Chlorbutan & Asulam & Flumetralin & zinc N,N'-propylenebisdithiocarbamate & cloethocarb & Methyl formate & 2-(3-chlorophenoxy)propionamide
+sulfonyl-1-methyl-1H-pyrazole-4- carboxylate & 33 & 25 & 33 & 100 & 40 & 50 & 33 & 17 & 25 & 75 & 25
+2-(3-chlorophenoxy)propionamide & 77 & 25 & 46 & 25 & 60 & 46 & 54 & 33 & 69 & 75 & 100
+zinc N,N'-propylenebisdithiocarbamate & 17 & 62 & 33 & 17 & 60 & 17 & 33 & 100 & 25 & 25 & 33
+manganese dimethyldithiocarbamate manganese & 12 & 100 & 50 & 25 & 20 & 25 & 50 & 62 & 38 & 25 & 25
+Flumetralin & 21 & 50 & 55 & 33 & 40 & 47 & 100 & 33 & 35 & 25 & 54
+(2-naphthyloxy)acetic acid (2-naphthyloxy)acetic a & 100 & 12 & 30 & 33 & 40 & 40 & 21 & 17 & 53 & 100 & 77
+cloethocarb & 53 & 38 & 35 & 25 & 60 & 40 & 35 & 25 & 100 & 100 & 69
+Methyl formate & 100 & 25 & 100 & 75 & 25 & 100 & 25 & 25 & 100 & 100 & 75
+Asulam & 40 & 25 & 47 & 50 & 20 & 100 & 47 & 17 & 40 & 100 & 46
+InChI=1/C15H21NO4/c1-10-7-6-8-11(2)14(10)16(13(17) & 30 & 50 & 100 & 33 & 60 & 47 & 55 & 33 & 35 & 100 & 46
+1-Chlorbutan & 40 & 20 & 60 & 40 & 100 & 20 & 40 & 60 & 60 & 25 & 60

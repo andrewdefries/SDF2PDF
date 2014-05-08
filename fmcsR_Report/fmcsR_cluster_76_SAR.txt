@@ -1,0 +1,4 @@
+Stirofos & Disulfoton & dinoseb
+Disulfoton & 43 & 100 & 14
+Stirofos & 100 & 43 & 41
+dinoseb & 41 & 14 & 100

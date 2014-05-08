@@ -1,0 +1,5 @@
+oxasulfuron & Mesomile & Methyloxiran & Ethazol
+Mesomile & 20 & 100 & 50 & 29
+Ethazol & 71 & 29 & 75 & 100
+oxasulfuron & 100 & 20 & 75 & 71
+Methyloxiran & 75 & 50 & 100 & 75

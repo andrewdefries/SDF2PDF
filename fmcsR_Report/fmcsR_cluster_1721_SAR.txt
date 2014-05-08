@@ -1,0 +1,4 @@
+dichlofluanid & 1,3-dichloropropene 1,3-dichloropropene, (E)- & 1,2-epoxypropane propylene oxide
+1,2-epoxypropane propylene oxide & 12 & 38 & 100
+1,3-dichloropropene 1,3-dichloropropene, (E)- & 20 & 100 & 38
+dichlofluanid & 100 & 20 & 12

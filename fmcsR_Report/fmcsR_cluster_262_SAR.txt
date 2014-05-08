@@ -1,0 +1,5 @@
+3-(4-Bromophenyl)-1,1-dimethyl-urea & cyclosulfamuron & Sodium o-phenylphenol & ethofumesate
+cyclosulfamuron & 54 & 100 & 50 & 42
+3-(4-Bromophenyl)-1,1-dimethyl-urea & 100 & 54 & 46 & 46
+ethofumesate & 46 & 42 & 57 & 100
+Sodium o-phenylphenol & 46 & 50 & 100 & 57

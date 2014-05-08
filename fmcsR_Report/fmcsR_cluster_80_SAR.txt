@@ -1,0 +1,5 @@
+Calypso & iodofenphos & 2,3,5-triiodobenzoic acid & 6-methoxy-2-pyridyl(methyl)thiocarbamate
+iodofenphos & 38 & 100 & 58 & 46
+6-methoxy-2-pyridyl(methyl)thiocarbamate & 46 & 46 & 42 & 100
+2,3,5-triiodobenzoic acid & 50 & 58 & 100 & 42
+Calypso & 100 & 38 & 50 & 46

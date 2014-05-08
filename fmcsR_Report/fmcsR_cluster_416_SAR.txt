@@ -1,0 +1,4 @@
+101917-66-2 & 1H-1,2,4-Triazole-1-ethanol & pyriminobac-methyl
+pyriminobac-methyl & 45 & 50 & 100
+1H-1,2,4-Triazole-1-ethanol & 38 & 100 & 50
+101917-66-2 & 100 & 38 & 45

@@ -1,0 +1,9 @@
+methyl 6-(4-isopropyl-4-methyl-5-oxo-2-imidazolin- & triazine-2-amine & L-Alanine, L-alanyl- & sodium 4-dimethylaminobenzenediazosulfonate & 3-phenoxybenzoic acid & Phosmet & 8-tert-butyl-1,4-dioxaspiro[4.5]decan-2-ylmethyl(e & Methyltetrahydrofuran
+triazine-2-amine & 29 & 100 & 29 & 29 & 14 & 43 & 29 & 17
+Methyltetrahydrofuran & 67 & 17 & 67 & 17 & 50 & 33 & 83 & 100
+methyl 6-(4-isopropyl-4-methyl-5-oxo-2-imidazolin- & 100 & 29 & 64 & 38 & 56 & 32 & 29 & 67
+Phosmet & 32 & 43 & 18 & 38 & 38 & 100 & 11 & 33
+3-phenoxybenzoic acid & 56 & 14 & 36 & 38 & 100 & 38 & 19 & 50
+8-tert-butyl-1,4-dioxaspiro[4.5]decan-2-ylmethyl(e & 29 & 29 & 64 & 25 & 19 & 11 & 100 & 83
+sodium 4-dimethylaminobenzenediazosulfonate & 38 & 29 & 27 & 100 & 38 & 38 & 25 & 17
+L-Alanine, L-alanyl- & 64 & 29 & 100 & 27 & 36 & 18 & 64 & 67

@@ -1,0 +1,4 @@
+Chlorobromuron & Trichlorfon & methyl [[2-chloro-4-fluoro-5-[(tetrahydro-3-oxo-1H
+Trichlorfon & 17 & 100 & 25
+methyl [[2-chloro-4-fluoro-5-[(tetrahydro-3-oxo-1H & 53 & 25 & 100
+Chlorobromuron & 100 & 17 & 53

@@ -1,0 +1,4 @@
+tricalcium arsenate & fluthiamide & levamisole
+levamisole & 0 & 43 & 100
+fluthiamide & 12 & 100 & 43
+tricalcium arsenate & 100 & 12 & 0

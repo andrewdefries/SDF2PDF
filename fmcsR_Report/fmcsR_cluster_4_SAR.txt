@@ -1,0 +1,4 @@
+chloropropylate 1-methylethyl & neburon & copper carbonate
+neburon & 33 & 100 & 40
+copper carbonate & 60 & 40 & 100
+chloropropylate 1-methylethyl & 100 & 33 & 60
