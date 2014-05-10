@@ -1,5 +1,5 @@
 oxasulfuron
-ChemmineR-0508141455XD
+ChemmineR-0509142352XD
 
  28 30  0  0  0  0  0  0  0  0999 V2000
     7.1447    8.5917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -63,7 +63,7 @@ ChemmineR-0508141455XD
 M  END
 $$$$
 Mesomile
-ChemmineR-0508141455XD
+ChemmineR-0509142352XD
 
  10  9  0  0  0  0  0  0  0  0999 V2000
     3.7125   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -91,7 +91,7 @@ common
 
 $$$$
 Methyloxiran
-ChemmineR-0508141455XD
+ChemmineR-0509142352XD
 
   4  4  0  0  0  0  0  0  0  0999 V2000
     0.2382    1.7138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -105,7 +105,7 @@ ChemmineR-0508141455XD
 M  END
 $$$$
 Ethazol
-ChemmineR-0508141455XD
+ChemmineR-0509142352XD
 
   7  7  0  0  0  0  0  0  0  0999 V2000
    -0.1467    2.3518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

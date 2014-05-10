@@ -1,5 +1,5 @@
 pyrimidine-2-sulfonamide
-ChemmineR-0508141458XD
+ChemmineR-0510140003XD
 
  10 10  0  0  0  0  0  0  0  0999 V2000
     0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -28,7 +28,7 @@ systematic
 
 $$$$
 Landrin
-ChemmineR-0508141458XD
+ChemmineR-0510140003XD
 
  14 14  0  0  0  0  0  0  0  0999 V2000
    -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -62,7 +62,7 @@ ChemmineR-0508141458XD
 M  END
 $$$$
 Zeldox
-ChemmineR-0508141458XD
+ChemmineR-0510140003XD
 
  31 32  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 H    0  3  0  0  0  0  0  0  0  0  0  0
@@ -131,7 +131,7 @@ ChemmineR-0508141458XD
 M  END
 $$$$
 Sodium arsenate
-ChemmineR-0508141458XD
+ChemmineR-0510140003XD
 
   6  4  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Na   0  3  0  0  0 15  0  0  0  0  0  0

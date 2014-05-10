@@ -1,5 +1,5 @@
 inabenfide
-ChemmineR-0508141458XD
+ChemmineR-0510140006XD
 
  24 26  0  0  0  0  0  0  0  0999 V2000
     5.0013   -1.2375    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -58,7 +58,7 @@ common
 
 $$$$
 primisulfuron-methyl
-ChemmineR-0508141458XD
+ChemmineR-0510140006XD
 
  31 32  0  0  0  0  0  0  0  0999 V2000
     4.2868   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -127,7 +127,7 @@ ChemmineR-0508141458XD
 M  END
 $$$$
 valine
-ChemmineR-0508141458XD
+ChemmineR-0510140006XD
 
   8  7  0  0  1  0  0  0  0  0999 V2000
     1.2375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -148,7 +148,7 @@ ChemmineR-0508141458XD
 M  END
 $$$$
 DOSANEX
-ChemmineR-0508141458XD
+ChemmineR-0510140006XD
 
  15 15  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0

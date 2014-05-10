@@ -1,5 +1,5 @@
 Cycloheximide
-ChemmineR-0508141456XD
+ChemmineR-0509142355XD
 
  20 21  0  0  1  0  0  0  0  0999 V2000
     1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -46,7 +46,7 @@ ChemmineR-0508141456XD
 M  END
 $$$$
 mefluidide
-ChemmineR-0508141456XD
+ChemmineR-0509142355XD
 
  20 20  0  0  0  0  0  0  0  0999 V2000
     0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -92,7 +92,7 @@ ChemmineR-0508141456XD
 M  END
 $$$$
 mepiquat chloride
-ChemmineR-0508141456XD
+ChemmineR-0509142355XD
 
   9  8  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0

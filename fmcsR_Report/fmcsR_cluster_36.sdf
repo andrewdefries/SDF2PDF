@@ -1,5 +1,5 @@
 aminoethyl phosphorodithioate
-ChemmineR-0508141453XD
+ChemmineR-0509142332XD
 
   8  7  0  0  0  0  0  0  0  0999 V2000
     2.4750   -1.4289    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
@@ -23,7 +23,7 @@ systematic
 
 $$$$
 3-chlorophenylhydrazone
-ChemmineR-0508141453XD
+ChemmineR-0509142332XD
 
   9  9  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
@@ -47,7 +47,7 @@ ChemmineR-0508141453XD
 M  END
 $$$$
 N-(2,6-dimethylphenyl)-N-(methoxyacetyl)alanine methyl
-ChemmineR-0508141453XD
+ChemmineR-0509142332XD
 
  20 20  0  0  1  0  0  0  0  0999 V2000
     2.1434   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -93,7 +93,7 @@ ChemmineR-0508141453XD
 M  END
 $$$$
 pentoxy
-ChemmineR-0508141453XD
+ChemmineR-0509142332XD
 
   6  5  0  0  0  0  0  0  0  0999 V2000
    -0.1914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -110,7 +110,7 @@ ChemmineR-0508141453XD
 M  END
 $$$$
 sodium dimethyldithiocarbamate methyl
-ChemmineR-0508141453XD
+ChemmineR-0509142332XD
 
   8  6  0  0  0  0  0  0  0  0999 V2000
     0.6482   -0.1021    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
@@ -133,7 +133,7 @@ systematic
 
 $$$$
 piperophos
-ChemmineR-0508141453XD
+ChemmineR-0509142332XD
 
  21 21  0  0  0  0  0  0  0  0999 V2000
    -2.1434    6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -184,7 +184,7 @@ common
 
 $$$$
 Claudetite
-ChemmineR-0508141453XD
+ChemmineR-0509142332XD
 
   5  6  0  0  0  0  0  0  0  0999 V2000
     0.5981   -0.1233    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -201,7 +201,7 @@ ChemmineR-0508141453XD
 M  END
 $$$$
 manganese ethylenebis(dithiocarbamate)
-ChemmineR-0508141453XD
+ChemmineR-0509142332XD
 
  11  9  0  0  0  0  0  0  0  0999 V2000
     0.3572   -0.2062    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -230,7 +230,7 @@ systematic
 
 $$$$
 sulphenone
-ChemmineR-0508141453XD
+ChemmineR-0509142332XD
 
  16 17  0  0  0  0  0  0  0  0999 V2000
     0.7145   -1.2375    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
@@ -269,7 +269,7 @@ ChemmineR-0508141453XD
 M  END
 $$$$
 2,6-dichlorobenzenecarbothioamide
-ChemmineR-0508141453XD
+ChemmineR-0509142332XD
 
  11 11  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0

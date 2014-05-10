@@ -1,5 +1,5 @@
 4,6-dinitrophenyl 2-(1-methylheptyl)-2- butenoate, (E)-
-ChemmineR-0508141453XD
+ChemmineR-0509142333XD
 
  26 26  0  0  0  0  0  0  0  0999 V2000
    -2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -60,7 +60,7 @@ systematic
 
 $$$$
 Fipronil
-ChemmineR-0508141453XD
+ChemmineR-0509142333XD
 
  26 27  0  0  0  0  0  0  0  0999 V2000
     0.7145   -0.4125    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
@@ -119,7 +119,7 @@ ChemmineR-0508141453XD
 M  END
 $$$$
 O-ethyl phenylphosphonothioate
-ChemmineR-0508141453XD
+ChemmineR-0509142333XD
 
  12 12  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 P   0  0  3  0  0  0  0  0  0  0  0  0
@@ -152,7 +152,7 @@ systematic
 
 $$$$
 1-Triacontanol
-ChemmineR-0508141453XD
+ChemmineR-0509142333XD
 
  31 30  0  0  0  0  0  0  0  0999 V2000
    16.6105   10.4151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -219,7 +219,7 @@ ChemmineR-0508141453XD
 M  END
 $$$$
 2,6-dichloro-4-nitroaniline
-ChemmineR-0508141453XD
+ChemmineR-0509142333XD
 
  12 12  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
@@ -249,7 +249,7 @@ ChemmineR-0508141453XD
 M  END
 $$$$
 ethephon
-ChemmineR-0508141453XD
+ChemmineR-0509142333XD
 
   7  6  0  0  0  0  0  0  0  0999 V2000
     2.8875   -0.7145    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -268,7 +268,7 @@ ChemmineR-0508141453XD
 M  END
 $$$$
 isothiocyanato-
-ChemmineR-0508141453XD
+ChemmineR-0509142333XD
 
   3  2  0  0  0  0  0  0  0  0999 V2000
      1.650     0.000     0.000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -279,7 +279,7 @@ ChemmineR-0508141453XD
 M  END
 $$$$
 2-amino-3-chloro-1,4-naphthoquinone
-ChemmineR-0508141453XD
+ChemmineR-0509142333XD
 
  14 15  0  0  0  0  0  0  0  0999 V2000
    -1.4289    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0

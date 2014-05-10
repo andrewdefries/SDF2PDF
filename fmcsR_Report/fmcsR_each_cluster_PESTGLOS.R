@@ -1,3 +1,4 @@
+system("cp SDF2PDF/* .")
 #######################
 system("rm -r *.temp")
 system("rm fmcsR_cluster*")
@@ -74,6 +75,8 @@ do
 mkdir $i.temp
 cp $i $i.temp/
 cp $i.smiset $i.temp/
+cp SDF2PDF/* $i.temp/
+cp *.sh $i.temp/
 cd $i.temp
 babel $i $i.smi -m
 cd ..
@@ -86,6 +89,7 @@ for s in *.smi
 do
 mol2chemfig -wo $s> $s.tex
 done
+./MakeLatex.sh
 cd  ..
 done")
 ######

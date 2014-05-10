@@ -1,5 +1,5 @@
 2-(4,5-dihydro-4-methyl-4-isopropyl-5-oxo-1H-imidazol-2-yl)quinoline-3-carboxylic acid
-ChemmineR-0508141454XD
+ChemmineR-0509142348XD
 
  23 25  0  0  0  0  0  0  0  0999 V2000
     0.1687    1.9482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -53,7 +53,7 @@ ChemmineR-0508141454XD
 M  END
 $$$$
 methyl hydrogen sulfate
-ChemmineR-0508141454XD
+ChemmineR-0509142348XD
 
   6  5  0  0  0  0  0  0  0  0999 V2000
     0.1105   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -70,7 +70,7 @@ ChemmineR-0508141454XD
 M  END
 $$$$
 2,3,4,5-tetrachlorothioanisole 2,3,5,6-tetrachloroaniline
-ChemmineR-0508141454XD
+ChemmineR-0509142348XD
 
  23 24  0  0  0  0  0  0  0  0999 V2000
     2.8579   -1.6500    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
@@ -126,7 +126,7 @@ systematic
 
 $$$$
 rimsulfuron
-ChemmineR-0508141454XD
+ChemmineR-0509142348XD
 
  28 29  0  0  0  0  0  0  0  0999 V2000
     4.2868   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -189,7 +189,7 @@ ChemmineR-0508141454XD
 M  END
 $$$$
 6,9-methano-2,4,3-benzodioxathiepin 3,3-dioxide
-ChemmineR-0508141454XD
+ChemmineR-0509142348XD
 
  14 16  0  0  0  0  0  0  0  0999 V2000
     0.1351   -2.0602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -228,7 +228,7 @@ systematic
 
 $$$$
 terbutryn
-ChemmineR-0508141454XD
+ChemmineR-0509142348XD
 
  16 16  0  0  0  0  0  0  0  0999 V2000
     1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -266,7 +266,7 @@ ChemmineR-0508141454XD
 M  END
 $$$$
 acrolein
-ChemmineR-0508141454XD
+ChemmineR-0509142348XD
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -279,7 +279,7 @@ ChemmineR-0508141454XD
 M  END
 $$$$
 Tribufos
-ChemmineR-0508141454XD
+ChemmineR-0509142348XD
 
  17 16  0  0  0  0  0  0  0  0999 V2000
    -3.9039    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

@@ -1,5 +1,5 @@
 (2-naphthyloxy)acetic acid (2-naphthyloxy)acetic acid
-ChemmineR-0508141453XD
+ChemmineR-0509142336XD
 
  29 32  0  0  0  0  0  0  0  0999 V2000
     5.7158    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -69,7 +69,7 @@ systematic
 
 $$$$
 manganese dimethyldithiocarbamate manganese
-ChemmineR-0508141453XD
+ChemmineR-0509142336XD
 
   8  5  0  0  0  0  0  0  0  0999 V2000
    -0.2062   -0.3572    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
@@ -91,7 +91,7 @@ systematic
 
 $$$$
 InChI=1/C15H21NO4/c1-10-7-6-8-11(2)14(10)16(13(17)9-19-4)12(3)15(18)20-5/h6-8,12H,9H2,1-5H3/t12-/m1/s1
-ChemmineR-0508141453XD
+ChemmineR-0509142336XD
 
  21 21  0  0  0  0  0  0  0  0999 V2000
     4.2868    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -139,7 +139,7 @@ ChemmineR-0508141453XD
 M  END
 $$$$
 sulfonyl-1-methyl-1H-pyrazole-4- carboxylate
-ChemmineR-0508141453XD
+ChemmineR-0509142336XD
 
  12 12  0  0  0  0  0  0  0  0999 V2000
     0.5678    1.1143    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -172,7 +172,7 @@ systematic
 
 $$$$
 1-Chlorbutan
-ChemmineR-0508141453XD
+ChemmineR-0509142336XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     2.4750   -1.4289    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -187,7 +187,7 @@ ChemmineR-0508141453XD
 M  END
 $$$$
 Asulam
-ChemmineR-0508141453XD
+ChemmineR-0509142336XD
 
  15 15  0  0  0  0  0  0  0  0999 V2000
    -0.7145    4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -223,7 +223,7 @@ ChemmineR-0508141453XD
 M  END
 $$$$
 Flumetralin
-ChemmineR-0508141453XD
+ChemmineR-0509142336XD
 
  28 29  0  0  0  0  0  0  0  0999 V2000
     1.4289   -2.4750    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -289,7 +289,7 @@ common
 
 $$$$
 zinc N,N'-propylenebisdithiocarbamate
-ChemmineR-0508141453XD
+ChemmineR-0509142336XD
 
  12 10  0  0  0  0  0  0  0  0999 V2000
     0.7145    0.0375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -320,7 +320,7 @@ systematic
 
 $$$$
 cloethocarb
-ChemmineR-0508141453XD
+ChemmineR-0509142336XD
 
  17 17  0  0  0  0  0  0  0  0999 V2000
     2.1434    3.7125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -360,7 +360,7 @@ ChemmineR-0508141453XD
 M  END
 $$$$
 Methyl formate
-ChemmineR-0508141453XD
+ChemmineR-0509142336XD
 
   4  3  0  0  0  0  0  0  0  0999 V2000
     2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -373,7 +373,7 @@ ChemmineR-0508141453XD
 M  END
 $$$$
 2-(3-chlorophenoxy)propionamide
-ChemmineR-0508141453XD
+ChemmineR-0509142336XD
 
  13 13  0  0  0  0  0  0  0  0999 V2000
     0.0000    2.4750    0.0000 C    0  0  3  0  0  0  0  0  0  0  0  0

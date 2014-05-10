@@ -1,5 +1,5 @@
 methyl 6-(4-isopropyl-4-methyl-5-oxo-2-imidazolin-2-yl)-m-toluate
-ChemmineR-0508141457XD
+ChemmineR-0510140001XD
 
  21 22  0  0  0  0  0  0  0  0999 V2000
     4.1658   -3.6784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -48,7 +48,7 @@ ChemmineR-0508141457XD
 M  END
 $$$$
 triazine-2-amine
-ChemmineR-0508141457XD
+ChemmineR-0510140001XD
 
   7  7  0  0  0  0  0  0  0  0999 V2000
     0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -68,7 +68,7 @@ ChemmineR-0508141457XD
 M  END
 $$$$
 L-Alanine, L-alanyl-
-ChemmineR-0508141457XD
+ChemmineR-0510140001XD
 
  11 10  0  0  1  0  0  0  0  0999 V2000
     3.4914   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -98,7 +98,7 @@ systematic
 
 $$$$
 sodium 4-dimethylaminobenzenediazosulfonate
-ChemmineR-0508141457XD
+ChemmineR-0510140001XD
 
  16 15  0  0  0  0  0  0  0  0999 V2000
     0.1905    1.2100    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
@@ -138,7 +138,7 @@ systematic
 
 $$$$
 3-phenoxybenzoic acid
-ChemmineR-0508141457XD
+ChemmineR-0510140001XD
 
  16 17  0  0  0  0  0  0  0  0999 V2000
     2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -180,7 +180,7 @@ systematic
 
 $$$$
 Phosmet
-ChemmineR-0508141457XD
+ChemmineR-0510140001XD
 
  19 20  0  0  0  0  0  0  0  0999 V2000
    -3.9284   -2.1269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -225,7 +225,7 @@ ChemmineR-0508141457XD
 M  END
 $$$$
 8-tert-butyl-1,4-dioxaspiro[4.5]decan-2-ylmethyl(ethyl)(propyl)amine
-ChemmineR-0508141457XD
+ChemmineR-0510140001XD
 
  21 22  0  0  0  0  0  0  0  0999 V2000
    -0.6865   -2.4373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -274,7 +274,7 @@ ChemmineR-0508141457XD
 M  END
 $$$$
 Methyltetrahydrofuran
-ChemmineR-0508141457XD
+ChemmineR-0510140001XD
 
   6  6  0  0  0  0  0  0  0  0999 V2000
     0.5678    1.9393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

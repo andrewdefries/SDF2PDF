@@ -1,5 +1,5 @@
 Clc1ccccc1C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl
-ChemmineR-0508141454XD
+ChemmineR-0509142344XD
 
  19 20  0  0  0  0  0  0  0  0999 V2000
     2.1434   -0.4125    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
@@ -44,7 +44,7 @@ ChemmineR-0508141454XD
 M  END
 $$$$
 naphthaleneacetamide 1-naphthaleneacetic acid
-ChemmineR-0508141454XD
+ChemmineR-0509142344XD
 
  28 31  0  0  0  0  0  0  0  0999 V2000
     4.2868    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -112,7 +112,7 @@ systematic
 
 $$$$
 dimepiperate
-ChemmineR-0508141454XD
+ChemmineR-0509142344XD
 
  18 19  0  0  0  0  0  0  0  0999 V2000
     1.5395   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -155,7 +155,7 @@ ChemmineR-0508141454XD
 M  END
 $$$$
 tolfenpyrad
-ChemmineR-0508141454XD
+ChemmineR-0509142344XD
 
  27 29  0  0  0  0  0  0  0  0999 V2000
    -2.1434   -3.7125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -217,7 +217,7 @@ ChemmineR-0508141454XD
 M  END
 $$$$
 sulfate 1-methyl-2-(3-pyridyl)pyrrolidine sulfate 3-(1-methyl-2-pyrrolidinyl)-pyridine sulfate, (S)-
-ChemmineR-0508141454XD
+ChemmineR-0509142344XD
 
  39 38  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
@@ -306,7 +306,7 @@ systematic
 
 $$$$
 chlorimuron ethyl
-ChemmineR-0508141454XD
+ChemmineR-0509142344XD
 
  27 28  0  0  0  0  0  0  0  0999 V2000
    -0.7145   -0.4125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -370,7 +370,7 @@ common
 
 $$$$
 copper sulfate pentahydrate copper arsenate
-ChemmineR-0508141454XD
+ChemmineR-0509142344XD
 
  16  8  0  0  0  0  0  0  0  0999 V2000
    -0.3175   -0.6417    0.0000 As   0  0  0  0  0  0  0  0  0  0  0  0
@@ -403,7 +403,7 @@ systematic
 
 $$$$
 Sulfuryl Fluoride
-ChemmineR-0508141454XD
+ChemmineR-0509142344XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
      0.825    -0.825     0.000 F   0  0  0  0  0  0  0  0  0  0  0  0
@@ -418,7 +418,7 @@ ChemmineR-0508141454XD
 M  END
 $$$$
 Epoxyethane -
-ChemmineR-0508141454XD
+ChemmineR-0509142344XD
 
   3  3  0  0  0  0  0  0  0  0999 V2000
     0.2382    0.8888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -430,7 +430,7 @@ ChemmineR-0508141454XD
 M  END
 $$$$
 Cadusafos
-ChemmineR-0508141454XD
+ChemmineR-0509142344XD
 
  15 14  0  0  0  0  0  0  0  0999 V2000
     0.1105   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -468,7 +468,7 @@ common
 
 $$$$
 1-(8-hydroxy-5-quinolinyl)-ethanone sulfate (2:1)
-ChemmineR-0508141454XD
+ChemmineR-0509142344XD
 
  24 23  0  0  0  0  0  0  0  0999 V2000
    -0.5103    1.3554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

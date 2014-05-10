@@ -1,5 +1,5 @@
 2-(1,2,4-triazol-1-ylmethyl)-2-(4-fluorophenyl)-3-(2-chlorophenyl)-oxirane
-ChemmineR-0508141455XD
+ChemmineR-0509142349XD
 
  23 26  0  0  0  0  0  0  0  0999 V2000
     3.2424    0.8837    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
@@ -54,7 +54,7 @@ ChemmineR-0508141455XD
 M  END
 $$$$
 1-(N-methoxyimino)ethyl
-ChemmineR-0508141455XD
+ChemmineR-0509142349XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
     2.0625    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -69,7 +69,7 @@ ChemmineR-0508141455XD
 M  END
 $$$$
 Methomyl
-ChemmineR-0508141455XD
+ChemmineR-0509142349XD
 
  10  9  0  0  0  0  0  0  0  0999 V2000
     3.3000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0

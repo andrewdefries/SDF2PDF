@@ -1,5 +1,5 @@
 1,2,4,5-tetrachloro-3-(methylthio)benzene
-ChemmineR-0508141500XD
+ChemmineR-0510140012XD
 
  12 12  0  0  0  0  0  0  0  0999 V2000
     0.7145    1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -32,7 +32,7 @@ systematic
 
 $$$$
 nicotine nicotine sulfate
-ChemmineR-0508141500XD
+ChemmineR-0510140012XD
 
  29 30  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
@@ -100,7 +100,7 @@ systematic
 
 $$$$
 2,6-bis-(4,6-dimethoxypyrimidin-2-yl-oxy)benzoic acid sodium salt
-ChemmineR-0508141500XD
+ChemmineR-0510140012XD
 
  32 33  0  0  0  0  0  0  0  0999 V2000
     0.0000    0.0000    0.0000 Na   0  3  0  0  0 15  0  0  0  0  0  0

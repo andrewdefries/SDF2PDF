@@ -1,5 +1,5 @@
 benzoylhydrazone
-ChemmineR-0508141456XD
+ChemmineR-0509142357XD
 
  10 10  0  0  0  0  0  0  0  0999 V2000
     0.0000    3.3000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
@@ -25,7 +25,7 @@ ChemmineR-0508141456XD
 M  END
 $$$$
 benazolin
-ChemmineR-0508141456XD
+ChemmineR-0509142357XD
 
  15 16  0  0  0  0  0  0  0  0999 V2000
    -1.4604    1.7103    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
@@ -62,7 +62,7 @@ ChemmineR-0508141456XD
 M  END
 $$$$
 phosphoramidite
-ChemmineR-0508141456XD
+ChemmineR-0509142357XD
 
   5  4  0  0  0  0  0  0  0  0999 V2000
      0.825    -0.825     0.000 N   0  0  0  0  0  0  0  0  0  0  0  0

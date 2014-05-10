@@ -1,5 +1,5 @@
 1-chloro-2-nitropropane
-ChemmineR-0508141459XD
+ChemmineR-0510140011XD
 
   7  6  0  0  0  0  0  0  0  0999 V2000
     2.0625    0.7145    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -18,7 +18,7 @@ ChemmineR-0508141459XD
 M  END
 $$$$
 5-((4-chlorophenyl)sulfinyl)-1,2,4- trichlorobenzene
-ChemmineR-0508141459XD
+ChemmineR-0510140011XD
 
  18 19  0  0  0  0  0  0  0  0999 V2000
     2.1434   -1.2375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
@@ -64,7 +64,7 @@ systematic
 
 $$$$
 pyrifenox
-ChemmineR-0508141459XD
+ChemmineR-0510140011XD
 
  19 20  0  0  0  0  0  0  0  0999 V2000
    -1.4289   -1.6500    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
